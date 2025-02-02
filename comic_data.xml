@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comics>
+    <comic id="001">
+        <series>American Gods</series>
+        <installment pageCount="264" release_year="2018">Volume 1</installment>
+            <subtitle>Shadows</subtitle>
+            <contributor>Rick Parker</contributor>
+                <
+        <installment pageCount="233" release_year="2019">Volume 2</installment>
+            <subtitle>My Ainsel</subtitle> 
+            
+        <installment pageCount="226" release_year="2020">Volume 3</installment>
+            <subtitle>The Moment Before The Storm</subtitle> 
+            <contributor>Jennifer T. Lange</contributor>
+                <role>coloring</role>
+            <contributor>Scott Hampton</contributor>
+                <role>coloring</role>
+
+        <format>Graphic Novel</format>
+        <publisher>Dark Horse Comics</publisher>
+        <contributor>Neil Gaimian</contributor>
+            <role>author</role>
+        <contributor>Scott Hampton</contributor>
+            <role>artist</role>
+        <contributor>P. Craig Russel</contributor>
+            <role>script</role>
+            <role>layout</role>
+        <contributor>Rick Parker</contributor>
+            <role>lettering</role>
+        <contributor>David Mack</contributor>
+            <role>chapter page design</role>
+            <role>cover artist</role>
+
+    </comic>
+
+
+</comics>
