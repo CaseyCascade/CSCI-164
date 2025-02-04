@@ -9,7 +9,7 @@
     - <publisher/> publishing company 
     - <contributor/> a contributor to the comic 
     - <role/> a role that a contributor played such as an artist, author, letterer, inker, designer, etc 
-    - <synopsis/> blurb from the back of the book or inside of a jacket 
+    - <synopsis/> blurb from the back of the book or website
 <!-- Attribute Tags--> 
     - 'id': unique identifier for comic 
     - 'format': omnibus, issue, graphic novel, webtoon etc 

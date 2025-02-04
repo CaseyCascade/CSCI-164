@@ -1,23 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <comics>
-    <comic id="001">
+    <comic id="001" format="omnibus">
         <series>American Gods</series>
-        <installment pageCount="264" release_year="2018">Volume 1</installment>
-            <subtitle>Shadows</subtitle>
-            <contributor>Rick Parker</contributor>
-                <
-        <installment pageCount="233" release_year="2019">Volume 2</installment>
-            <subtitle>My Ainsel</subtitle> 
-            
-        <installment pageCount="226" release_year="2020">Volume 3</installment>
-            <subtitle>The Moment Before The Storm</subtitle> 
-            <contributor>Jennifer T. Lange</contributor>
-                <role>coloring</role>
-            <contributor>Scott Hampton</contributor>
-                <role>coloring</role>
-
-        <format>Graphic Novel</format>
         <publisher>Dark Horse Comics</publisher>
+        <genre>Fantasy</genre>
+        <genre>Horror</genre>
         <contributor>Neil Gaimian</contributor>
             <role>author</role>
         <contributor>Scott Hampton</contributor>
@@ -30,8 +17,67 @@
         <contributor>David Mack</contributor>
             <role>chapter page design</role>
             <role>cover artist</role>
-
+        <contributor>Glen Farby</contributor>
+            <role>Chapter Cover Pages</role>
+        <contributor>Adam Brown</contributor>
+            <role>Chapter Cover Pages</role>
+        <priceUSD>35.99</priceUSD>
+        <synopsis>The complete American Gods comic book series, adapted by comics legend P. Craig Russell from the New York Times bestselling and award-winning novel by writer Neil Gaiman, in an omnibus edition.
+                Shadow Moon, fresh out of jail, finds his wife dead, his life in shambles, and nowhere to turn. But a chance meeting with the mysterious Mr. Wednesday thrusts him into the center of a conflict between new and old gods, where the future of human and divine life is at stake.
+                The Hugo, Bram Stoker, Locus, World Fantasy, and Nebula award-winning novel and hit Starz television series by NEIL GAIMAN is adapted as a graphic novel!
+                Collecting the complete American Gods comic book series, along with art process features, high res scans of original art, layouts, character designs, and bonus art by Becky Cloonan, Skottie Young, Fabio Moon, Dave McKean, and many more!
+                Collects American Gods: Shadows #1-#9, American Gods: My Ainsel #1-#9, and American Gods: The Moment of the Storm #1-#9.
+                </synopsis>
+        
+        <installment pageCount="264" release_year="2018" format="graphic novel">Volume 1</installment>
+            <subtitle>Shadows</subtitle>
+            <section>Chapter 1</section>
+                <section>Somewhere in America</section>
+                    <contributor>P. Craig Russel</contributor>
+                    <contributor>Lovern Kindzierski</contributor>
+            <section>Chapter 3</section>
+                <section>Coming to America</section>
+                    <contributor>Walter Simonson</contributor>
+                    <contributor>Laura Martin</contributor>
+            <section>Chapter 4</section>
+                <section>Coming to America</section>
+                    <contributor>Colleen Doran</contributor>
+            <section>Chapter 8</section>
+                <section>Coming to America</section>
+                    <contributor>Glenn Farby</contributor>
+                    <contributor>Adam Brown</contriutor>
+            <synopsis>This supernatural American road trip fantasy tells the story of a war between the ancient and modern gods. 
+                      Shadow Moon gets out of jail only to discover his wife is dead. Defeated, broke, and uncertain where to go from here, he meets the mysterious Mr. Wednesday, who employs him to serve as his bodyguard—thrusting Shadow into a deadly world where ghosts of the past come back from the dead, and a god war is imminent.
+                      Collecting the first nine issues of the American Gods comic book series, along with art process features, high res scans of original art, layouts, character designs, and variant covers by Becky Cloonan, Skottie Young, Fabio Moon, Dave McKean, and more!
+                    </synopsis>
+            <priceUSD>16.99</priceUSD>
+        
+        <installment pageCount="233" release_year="2019" format="graphic novel">Volume 2</installment>
+            <subtitle>My Ainsel</subtitle> 
+            <contributor>Jennifer T. Lange</contributor>
+                <role>coloring</role>
+            <contributor>Mark Buckingham</contributor>
+                <role>chapter 5 art</role>
+            <contributor>Chris Blythe</contributor>
+                <role>chapter 5 art</role>
+            <section>Coming to America</section>
+                <contributor>Galen Showman</contributor>
+                <contributor>Lovern Kindzierski</contributor>
+            <priceUSD>16.99</priceUSD>
+            <synopsis>The bizarre road trip across America continues as our heroes gather reinforcements for the imminent god war! Shadow and Wednesday leave the House on the Rock and continue their journey across the country, during which they set up aliases, meet new gods, and prepare for war.
+                        The Hugo, Bram Stoker, Locus, World Fantasy, and Nebula Award–winning novel and hit Starz television series by Neil Gaiman is adapted as a graphic novel! Collects issues #1-#9 of American Gods: My Ainsel.
+                        </synopsis>
+            
+        <installment pageCount="226" release_year="2020" format="graphic novel">Volume 3</installment>
+            <subtitle>The Moment Before The Storm</subtitle> 
+            <contributor>Jennifer T. Lange</contributor>
+                <role>coloring</role>
+            <contributor>Scott Hampton</contributor>
+                <role>coloring</role>
+            <priceUSD>16.99</priceUSD>
+            <synopsis>The new and old gods agree to meet in the center of America to exchange the body of the old gods' fallen leader—heading towards the inevitable god war in this final arc to the bestselling comic series!
+                        The Hugo, Bram Stoker, Locus, World Fantasy, and Nebula Award-winning novel and hit Starz television series by NEIL GAIMAN is adapted as a graphic novel!
+                        Collects the nine-issue miniseries.
+                        </synopsis>
     </comic>
-
-
 </comics>
